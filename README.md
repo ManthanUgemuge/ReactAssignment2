@@ -1,3 +1,3 @@
 # ReactAssignment2
 
-Cipher School ReactAssignment2 Assignment 
+Cipher School React Assignment 2
